@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pangshuntak12493@hotmail.com",
+    "longName": "score",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "score",
+    "uuid": "07f33a80-5209-4fc4-aeaf-a2983e4a7710",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
